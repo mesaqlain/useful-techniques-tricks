@@ -1,0 +1,30 @@
+STR UR SSG Goku
+STR LR Goku (Kaioken)
+PHY LR Goku & Piccolo
+TEQ UR 17 18
+INT UR 19 20
+PHY LR Cell
+PHY UR Piccolo
+STR UR Kid Buu
+STR UR Krillin (db saga)
+INT UR Pan (Kid)
+AGL UR SSJ3 Gotenks Piccolo
+INT UR SSJ4 Gohan
+AGL UR Dark King Mechikabura
+PHY UR Dark Robelu
+INT UR Pan (Xeno)
+STR UR Hearts
+STR UR Yamcha f2p
+STR UR Grandpa Gohan
+TEQ UR Jackie Chun
+AGL UR Goku Black
+PHY UR Goku Xeno
+INT UR Vegeta Xeno
+PHY UR SSJ Bardock
+INT UR Goku Majin Buu
+STR UR Kale
+TEQ UR Caulifla
+INT UR Cheelai
+PHY UR Fasha
+INT UR SSJ4 Bardock
+INT UR Frieza
