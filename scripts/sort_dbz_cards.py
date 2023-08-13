@@ -8,7 +8,7 @@
 # we can easily create keys with list indices and use the sorted() function
 
 # Filepath where the file to be sorted is
-file_path = './data/sorting/dbz_cards.txt'
+file_path = '../data/sorting/dbz_cards.txt'
 
 # Read the lines from the file and store them in a list
 lines = []
@@ -33,7 +33,7 @@ sorted_lines = sorted(lines, key=custom_sort_key)
 
 # Specify the file path where we want to write the file
 # if it will be a new file, otherwise use previous filepath
-file_path = './data/sorting/dbz_cards_sorted.txt'
+file_path = '../data/sorting/dbz_cards_sorted.txt'
 
 # Open the file in write mode and write the sorted lines
 with open(file_path, 'w') as file:
